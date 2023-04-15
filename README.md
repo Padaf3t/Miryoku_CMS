@@ -13,3 +13,7 @@ the code and number layout are slightly change to adapt to the CMS change from U
 Just check the custom_config for all the change
 
 you need (https://github.com/manna-harbour/miryoku_qmk/tree/miryoku/users/manna-harbour_miryoku) and change the custom_config.h by this one and you're good to go :)
+
+Here's the preview of the change in CMS:
+
+![image](https://user-images.githubusercontent.com/129521661/232248123-a563557e-ba69-485c-a969-0ef535580710.png)
